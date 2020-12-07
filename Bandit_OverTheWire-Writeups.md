@@ -1,9 +1,13 @@
 # Bandit_OverTheWire-WriteUps
 
+This is a basic CTF by OverTheWire, wargames category. Follow the link for extra details.
+[Bandit - OverTheWire](https://overthewire.org/wargames/bandit/)
+
+
 These are the write-ups for the levels 1-15 of OverTheWire-Bandit
 
 
-#### Bandit: Level 0->1
+### Bandit: Level 0->1
 
 
 ![0](https://user-images.githubusercontent.com/71322795/101380189-36019a00-38db-11eb-9fba-677a3fa84b69.png)
