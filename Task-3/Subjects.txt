@@ -1,7 +1,0 @@
-Physics
-Maths
-Chemistry
-Computer
-English
-Biology
-Cryptography
