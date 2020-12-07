@@ -1,7 +1,6 @@
 # Bandit_OverTheWire-WriteUps
 
 This is a basic CTF by OverTheWire, wargames category. Follow the link for extra details.
-
 [Bandit - OverTheWire](https://overthewire.org/wargames/bandit/)
 
 
